@@ -1,0 +1,7 @@
+{
+  "name": "CompanyIQ – AI-Powered Corporate Financial Analytics Platform",
+  "description": "Understand any company's financial performance in seconds with authentic financial statements from official regulators, ratio analysis, Recharts visualizations, and AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
